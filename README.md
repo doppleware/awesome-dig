@@ -19,4 +19,8 @@ https://code.visualstudio.com/api/get-started/your-first-extension
 ## Machine Learning/ Analytics
 https://machinelearningmastery.com/clustering-algorithms-with-python/
 
+## Norbert's awesome project
+https://faun.pub/ide-first-application-metrics-to-provide-actionable-feedback-for-developers-d17a83af19c0
+
+
 
