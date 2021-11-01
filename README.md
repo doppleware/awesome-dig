@@ -17,6 +17,7 @@ https://docs.microsoft.com/en-us/dotnet/framework/unmanaged-api/profiling/profil
 https://code.visualstudio.com/api/get-started/your-first-extension
 
 ## Machine Learning/ Analytics
+https://vitalflux.com/hierarchical-clustering-explained-with-python-example/
 https://machinelearningmastery.com/clustering-algorithms-with-python/
 
 ## Norbert's awesome project
