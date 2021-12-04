@@ -18,6 +18,7 @@ https://ebpf.io/
 ## VS Code Extensions
 
 https://code.visualstudio.com/api/get-started/your-first-extension
+https://docs.microsoft.com/en-us/visualstudio/extensibility/vsix/visual-studio-community-toolkit?view=vs-2022
 
 ## Machine Learning/ Analytics
 https://vitalflux.com/hierarchical-clustering-explained-with-python-example/
