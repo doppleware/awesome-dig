@@ -24,8 +24,9 @@ https://docs.microsoft.com/en-us/visualstudio/extensibility/vsix/visual-studio-c
 https://vitalflux.com/hierarchical-clustering-explained-with-python-example/
 https://machinelearningmastery.com/clustering-algorithms-with-python/
 
-## Norbert's awesome project
+## Implementations of similar ideas
 https://faun.pub/ide-first-application-metrics-to-provide-actionable-feedback-for-developers-d17a83af19c0
+https://github.com/sourceplusplus/live-platform (also known as sourcemarker)
 
 
 
