@@ -15,6 +15,13 @@ https://devblogs.microsoft.com/dotnet/announcing-dotnet-monitor-in-net-6/
 
 https://ebpf.io/
 
+## Jetbrains Extensions
+Norbert exampole: https://github.com/Norbo11/feedback_driven_development
+https://github.com/JetBrains/intellij-platform-plugin-template
+https://plugins.jetbrains.com/docs/intellij/getting-started.html
+
+
+
 ## VS Code Extensions
 
 https://code.visualstudio.com/api/get-started/your-first-extension
