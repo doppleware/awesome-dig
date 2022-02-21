@@ -20,6 +20,7 @@ https://ebpf.io/
 Norbert exampole: https://github.com/Norbo11/feedback_driven_development
 https://github.com/JetBrains/intellij-platform-plugin-template
 https://plugins.jetbrains.com/docs/intellij/getting-started.html
+https://www.youtube.com/watch?v=jXzEzmz-oag&ab_channel=PyConAU
 
 
 
